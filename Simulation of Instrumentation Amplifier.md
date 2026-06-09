@@ -20,10 +20,19 @@ time delay stop time value.
 obtained.
 
 ## CIRCUIT DIAGRAM:
-<img width="1600" height="901" alt="WhatsApp Image 2026-05-19 at 20 09 14" src="https://github.com/user-attachments/assets/c2615447-4737-4be6-ae29-e98018e67f35" />
+<img width="1918" height="552" alt="image" src="https://github.com/user-attachments/assets/25e1b4f7-87c1-4007-b8fb-091b5ef30472" />
+
+
+
 
 ## OUTPUT GRAPH:
-<img width="1600" height="869" alt="WhatsApp Image 2026-05-19 at 20 11 29" src="https://github.com/user-attachments/assets/91827fe2-0f60-49d0-9698-6500d6b2e31d" />
+<img width="1918" height="568" alt="image" src="https://github.com/user-attachments/assets/d17a1ad7-32b6-4739-8335-d7c2ab048317" />
+
+<img width="1080" height="1454" alt="image" src="https://github.com/user-attachments/assets/d381c3bc-4841-40b4-85ae-894b49fb3822" />
+
+
+
+
 
 ## RESULT:
 Thus the LT-SPICE tool has been studied and Instrumentation amplifier circuit is simulated. 
